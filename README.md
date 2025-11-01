@@ -52,8 +52,7 @@ This project is open-source and available under the MIT License
 ✨ Author
 
 Harsh Pandey
-💼 LinkedIn
- | 📧 harshpandey@gmail.com.com
+**Connect with me on LinkedIn:** [Harsh Pandey](https://www.linkedin.com/in/harsh-pandey-891261354/)
 
 🖥️ Built with ❤️ using Python + Streamlit
 
